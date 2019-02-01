@@ -16,7 +16,7 @@ async def sword():
 
 @bot.command()
 async def nub():
-    await bot.say('u are nub --')
+    await bot.say('u are nub -_-')
 
 @bot.command()
 async def list():
@@ -36,7 +36,7 @@ async def list():
 
 @bot.command()
 async def creeper():    
-    await bot.say('https://goo.gl/images/phsPwJ%27)
+    await bot.say('https://goo.gl/images/phsPwJ%27')
 
 @bot.command()
 async def diaset():
