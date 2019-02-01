@@ -44,7 +44,7 @@ async def diaset():
 
 @bot.command()
 async def creator():
-    await bot.say('My Creators Name Is ProTalha You Can Join His Server From Here https://discord.gg/YQQUD35%27)
+    await bot.say('My Creators Name Is ProTalha You Can Join His Server From Here https://discord.gg/YQQUD35%27')
 
 @bot.command()
 async def gtfo():
